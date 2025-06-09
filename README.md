@@ -79,4 +79,5 @@ The system continuously monitors for light interruption or changes in brightness
 
 ---
 
+Don't forgit to give me a ⭐ on this project if you liked it
 
